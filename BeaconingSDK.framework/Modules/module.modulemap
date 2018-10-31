@@ -1,0 +1,4 @@
+framework module BeaconingSDK {
+  header "BeaconingSDK-Swift.h"
+  requires objc
+}
